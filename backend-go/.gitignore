@@ -1,0 +1,16 @@
+# Binaire compilé
+/backend-go
+
+# Base de données SQLite
+counters.db
+
+# Go build cache & fichiers système
+*.exe
+*.log
+*.out
+*.test
+
+# Mac & Linux
+.DS_Store
+.idea/
+.vscode/

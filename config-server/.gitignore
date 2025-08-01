@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de logs, tests, caches
+*.log
+*.db
+*.sqlite3
+
+# Éditeurs
+.DS_Store
+.idea/
+.vscode/

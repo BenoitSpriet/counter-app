@@ -1,0 +1,22 @@
+cat <<EOF > .gitignore
+# Node
+**/node_modules/
+**/dist/
+
+# Python
+**/__pycache__/
+**/venv/
+**/.venv/
+**/.env
+
+# Go
+**/counters.db
+**/*.exe
+**/*.out
+**/*.test
+
+# IDEs
+**/.vscode/
+**/.idea/
+**/.DS_Store
+EOF
