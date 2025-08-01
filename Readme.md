@@ -34,31 +34,31 @@ cd counter-app
 
 ### 2. Démarrer chaque composant
 
-    🔧 [Backend Go](/backend-go/Readme.md)
+ 🔧 [Backend Go](backend-go/Readme.md)
 
-    ⚙️ [Serveur de config Python](/config-server/Readme.md)
+ ⚙️ [Serveur de config Python](config-server/Readme.md)
 
-    🎨 [Frontend React](/frontend-react/README.md)
+ 🎨 [Frontend React](frontend-react/README.md)
 
 ## 🔐 Sécurité
 
-    CORS strict entre services
+ CORS strict entre services
 
-    Seules les origines autorisées peuvent accéder aux APIs
+ Seules les origines autorisées peuvent accéder aux APIs
 
 ## 📚 Documentation détaillée
 
-    📘 [Backend Go](backend-go/Readme.md)
+ 📘 [Backend Go](backend-go/Readme.md)
 
-    📘 [Serveur de config Python](config-server/Readme.md)
+ 📘 [Serveur de config Python](config-server/Readme.md)
 
-    📘 [Frontend React](frontend-react/README.md)
+ 📘 [Frontend React](frontend-react/README.md)
 
 ## 🧪 Fonctionnement
 
-    Le frontend appelle /config sur le serveur Python.
+ Le frontend appelle /config sur le serveur Python.
 
-    Celui-ci retourne l’URL du backend Go (ex: http://localhost:8080).
+ Celui-ci retourne l’URL du backend Go (ex: http://localhost:8080).
 
-    Le frontend interagit ensuite avec l’API Go pour manipuler les compteurs.
+ Le frontend interagit ensuite avec l’API Go pour manipuler les compteurs.
 
