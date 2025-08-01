@@ -34,11 +34,11 @@ cd counter-app
 
 ### 2. Démarrer chaque composant
 
-    🔧 [Backend Go](backend-go/README.md)
+    🔧 [Backend Go](/backend-go/Readme.md)
 
-    ⚙️ [Serveur de config Python](config-server/README.md)
+    ⚙️ [Serveur de config Python](/config-server/Readme.md)
 
-    🎨 [Frontend React](frontend-react/README.md)
+    🎨 [Frontend React](/frontend-react/README.md)
 
 ## 🔐 Sécurité
 
@@ -48,9 +48,9 @@ cd counter-app
 
 ## 📚 Documentation détaillée
 
-    📘 [Backend Go](backend-go/README.md)
+    📘 [Backend Go](backend-go/Readme.md)
 
-    📘 [Serveur de config Python](config-server/README.md)
+    📘 [Serveur de config Python](config-server/Readme.md)
 
     📘 [Frontend React](frontend-react/README.md)
 
